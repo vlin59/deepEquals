@@ -4,7 +4,7 @@
   "description": "",
   "main": "deepEquals.js",
   "scripts": {
-    "test": "mocha deepEquals.js",
+    "test": "mocha deepEquals.js -w",
     "start": "node deepEquals.js"
   },
   "author": "",
