@@ -4,4 +4,4 @@ In the command line, run `git clone https://github.com/vlin59/deepEquals.git` to
 
 Run `npm install` then run `npm test`
 
-The deepEquals functions starts on line 5, 3 of the tests are passed for you
+The deepEquals function starts on line 5, 3 of the tests are passed for you
