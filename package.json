@@ -1,0 +1,16 @@
+{
+  "name": "deep_equals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deepEquals.js",
+  "scripts": {
+    "test": "mocha deepEquals.js",
+    "start": "node deepEquals.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
